@@ -1,5 +1,5 @@
 body{
-	background-color: skyblue;
+	background-color: blueviolet;
 }
 
 h1{
@@ -23,6 +23,6 @@ h2{
 	color: navy;
 }
 
-h1 span{
+	h1 span{
 	color: violet;
 }
